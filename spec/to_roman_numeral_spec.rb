@@ -1,4 +1,5 @@
 require_relative 'spec_helper'
+require_relative 'to_roman_numeral'
 
 describe 'Decimal to roman numeral converter' do
 
