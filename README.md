@@ -3,6 +3,8 @@
 The aim is to follow the TDD lifecycle using ruby-plsql and implement a decimal to roman numerals conversion function.
 The function should work properly for numbers up to 3000.
 
+Used: Rubymine, ruby-plsql-spec, Oracle 11g XE on VirtualBox VM 
+
 To visualize the flow of TDD the commit frequency is to be as follows:
 
 1. Write a test that fails, run it, commit
@@ -14,4 +16,4 @@ To visualize the flow of TDD the commit frequency is to be as follows:
 4. Continue with next case
 
 That was my second PLSQL programming kata.
-First one was with FizzBuzz (thanks to Krzysztof Jelski from Pragmatists)
+First one was FizzBuzz Kata (thanks to Krzysztof Jelski from Pragmatists)
